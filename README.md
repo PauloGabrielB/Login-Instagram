@@ -1,2 +1,2 @@
 # Login Instagram
-testando meus conhecimentos e aprendizados do curso de full-stack, recriando a home-page do instagram.
+Exercício de Recriação da Login Page do Instagram !
